@@ -1,0 +1,136 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "TDEE计算器"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "bmrTitle",
+      "value": "基础代谢率(BMR)"
+    },
+    {
+      "name": "bmrTitleHint",
+      "value": "Basal Metabolic Rat"
+    },
+    {
+      "name": "tdeeTitle",
+      "value": "每日消耗热量(TDEE)"
+    },
+    {
+      "name": "tdeeTitleHint",
+      "value": "Total Daily Energy Expenditure"
+    },
+    {
+      "name": "targetTitle",
+      "value": "锻炼目标"
+    },
+    {
+      "name": "genderTitle",
+      "value": "性别:"
+    },
+    {
+      "name": "genderManTitle",
+      "value": "男"
+    },
+    {
+      "name": "genderWomanTitle",
+      "value": "女"
+    },
+    {
+      "name": "ageTitle",
+      "value": "年龄"
+    },
+    {
+      "name": "heightTitle",
+      "value": "身高(CM)"
+    },
+    {
+      "name": "weightTitle",
+      "value": "体重(KG)"
+    },
+    {
+      "name": "bmrBtnTitle",
+      "value": "计算BMR"
+    },
+    {
+      "name": "exerciseRateTitle",
+      "value": "运动频率"
+    },
+    {
+      "name": "tdeeBtnTitle",
+      "value": "计算TDEE"
+    },
+    {
+      "name": "targetRadioTitle",
+      "value": "目标:"
+    },
+    {
+      "name": "fatLossTitle",
+      "value": "减脂"
+    },
+    {
+      "name": "maintainTitle",
+      "value": "维持"
+    },
+    {
+      "name": "muscleGainzTitle",
+      "value": "增肌"
+    },
+    {
+      "name": "eatTimeTitle",
+      "value": "每日饮食次数"
+    },
+    {
+      "name": "calcTargetBtn",
+      "value": "计算目标TDEE"
+    },
+    {
+      "name": "normalTargetTitle",
+      "value": "普通目标"
+    },
+    {
+      "name": "calcEveryDayBtnTitle",
+      "value": "计算每顿饮食摄取量"
+    },
+    {
+      "name": "proteinTitle",
+      "value": "蛋白质"
+    },
+    {
+      "name": "fatTitle",
+      "value": "脂肪"
+    },
+    {
+      "name": "carbTitle",
+      "value": "脂碳水化合物"
+    },
+    {
+      "name": "customTargetTitle",
+      "value": "自定义目标"
+    },
+    {
+      "name": "customProteinTitle",
+      "value": "蛋白质(克/公斤)"
+    },
+    {
+      "name": "customFatTitle",
+      "value": "脂肪摄入比例(%)"
+    },
+    {
+      "name": "normaltargetslice_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "entry_NormalTargetSlice",
+      "value": "普通目标"
+    },
+    {
+      "name": "everyTimeTargetTitle",
+      "value": "每顿饮食摄入量"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "tedd"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "bmrTitle",
+      "value": "基础代谢率(Basal Metabolic Rate，BMR)"
+    },
+    {
+      "name": "normaltargetslice_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "normaltargetslice_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "entry_NormalTargetSlice",
+      "value": "普通目标"
+    }
+  ]
+}

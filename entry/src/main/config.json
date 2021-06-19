@@ -1,0 +1,57 @@
+{
+  "app": {
+    "bundleName": "com.tdee.tdeecalc",
+    "vendor": "tdee",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {},
+  "module": {
+    "package": "com.tdee.tdeecalc",
+    "name": ".MyApplication",
+    "mainAbility": "com.tdee.tdeecalc.MainAbility",
+    "deviceType": [
+      "phone"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "entry",
+      "moduleType": "entry",
+      "installationFree": true
+    },
+    "abilities": [
+      {
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home",
+              "action.normal_target_page",
+              "action.custom_target_page"
+            ]
+          }
+        ],
+        "orientation": "unspecified",
+        "name": "com.tdee.tdeecalc.MainAbility",
+        "icon": "$media:icon",
+        "description": "$string:mainability_description",
+        "label": "$string:entry_MainAbility",
+        "type": "page",
+        "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "com.tdee.tdeecalc.NormalTargetSlice",
+        "icon": "$media:icon",
+        "description": "$string:normaltargetslice_description",
+        "label": "$string:entry_NormalTargetSlice",
+        "type": "page",
+        "launchType": "standard"
+      }
+    ]
+  }
+}
